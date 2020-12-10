@@ -10528,6 +10528,10 @@ button:hover:after {
     width: 20%
 }
 
+.sponsors-area-col4 .single {
+    width: 30%
+}
+
 .sponsors-area-nogap .single {
     margin: 0 0 4px;
     display: inline-table
